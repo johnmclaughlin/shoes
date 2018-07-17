@@ -4,6 +4,8 @@
 2. Yarn install
 3. Yarn start
 
+Demo: https://shoes-adca9.firebaseapp.com
+
 #### Notes
 1. JSON data is loaded asynchronously
 2. Search and Artist/Song/Album select not work
